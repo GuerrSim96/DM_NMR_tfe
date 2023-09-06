@@ -1,0 +1,20 @@
+HETATM    1 CF*  TFE     1       0.405   0.018  -0.004  1.00  0.00           C
+HETATM    2  F*  TFE     1       0.481  -0.723   1.123  1.00  0.00           F
+HETATM    3  F*  TFE     1       1.475   0.840  -0.028  1.00  0.00           F
+HETATM    4  F*  TFE     1       0.499  -0.823  -1.055  1.00  0.00           F
+HETATM    5 CH*  TFE     1      -0.884   0.797  -0.041  1.00  0.00           C
+HETATM    6  O*  TFE     1      -1.976  -0.109   0.004  1.00  0.00           O
+HETATM    7 HO*  TFE     1      -1.895  -0.624   0.825  1.00  0.00           H
+HETATM    8  H*  TFE     1      -0.958   1.480   0.811  1.00  0.00           H
+HETATM    9  H*  TFE     1      -0.958   1.381  -0.962  1.00  0.00           H
+TER       10     TFE     1                                                      
+CONECT    2    1
+CONECT    3    1
+CONECT    3    1
+CONECT    6    5    7
+CONECT    5    6    1    8    9
+CONECT    1    2    3    4    5
+CONECT    8    5
+CONECT    9    5
+CONECT    7    6
+END
