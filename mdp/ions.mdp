@@ -1,0 +1,18 @@
+; ions.mdp
+; Parameters describing what to do, when to stop and what to save
+integrator  	= steep		; Algorithm (cg = conjugate gradient) (changed)
+nsteps      	= 10000		; Maximum number of (minimization) steps to perform
+; Energy minimization
+emtol       	= 1000.0	; Stop minimization when the maximum force < 1000.0 kJ/mol/nm
+emstep      	= 0.01		; Minimization step size
+; Neighbor searching
+cutoff-scheme   = Verlet	; Buffered neighbor searching 
+nstlist         = 20		; Frequency to update the neighbor list and long range forces (cuz Verlet)
+pbc             = xyz		; Periodic Boundary Conditions in all 3 dimensions (ok)
+ns_type         = grid		; Method to determine neighbor list (simple, grid)
+; Electrostatics
+coulombtype     = PME		; Treatment of long range electrostatic interactions
+rlist           = 1.2		;
+rcoulomb        = 1.2		; Short-range electrostatic cut-off
+; Van der Waals
+rvdw            = 1.2		; Short-range Van der Waals cut-off
