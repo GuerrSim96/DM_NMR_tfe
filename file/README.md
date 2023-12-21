@@ -1,4 +1,4 @@
-## Description
+## Description:
 In this folder, there are the OPLS-aa force field files containing the parameters for trifluoroethanol (TFE) and the protein data bank files necessary for the simulation in a mixture of TFE and water.
 #### atomtypes.atp
 In this file the identification codes of the atoms are associated with the corresponding atomic masses.
