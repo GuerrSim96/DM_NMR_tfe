@@ -1,13 +1,13 @@
-## Description:
+# Description:
 The folder contains parameter files necessary for the correct functioning of GROMACS.  
 <sup> _They will be reported in the same order in which they are used to produce a trajectory._ </sup>
-#### ions.mdp
+### ions.mdp
 The parameters in this file are used to introduce counterions into the system in order to neutralize the charges.
-#### minim.mdp
+### minim.mdp
 The parameters in this file are used for calculating the energy minimization of the system.
-#### nvt.mdp
+### nvt.mdp
 The parameters in this file are used for the first phase of system equilibration.
-#### npt.mdp
+### npt.mdp
 The parameters in this file are used for the second phase of system equilibration.
-#### md.mdp
+### md.mdp
 The parameters in this file are used for molecular dynamics simulation.
