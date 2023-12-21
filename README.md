@@ -3,7 +3,7 @@ MDS-PVT is a system designed for conducting Molecular Dynamics Simulations (MDS)
 The system enables the generation of trajectories for peptides within aqueous or membrane-like environments.
 
 The system is composed by three Notebooks:
-1.  The first one needs to install the open source software GROMACS and to adds parameters of Trifluoroethanol into the OPLS-aa force field;
+1.  The first one needs to install the open source software GROMACS and to adds parameters of trifluoroethanol into the OPLS-aa force field;
 2.  The second one is responsible to producing the trajectory of a molecular system using the functionality provided by GROMACS;
 3.  The third one is dedicated to analyzing the conformational changes of the peptide throughout the trajectory obtained from the simulation.
 
