@@ -1,6 +1,6 @@
 ## Description:
 The folder contains parameter files necessary for the correct functioning of GROMACS.  
-<sup> _They will be reported in the same orderin which they are used to produce a trajectory._ </sup>
+<sup> _They will be reported in the same order in which they are used to produce a trajectory._ </sup>
 #### ions.mdp
 The parameters in this file are used to introduce counterions into the system in order to neutralize the charges.
 #### minim.mdp
