@@ -7,8 +7,8 @@ The data is associated with the OPLS-aa force field.
 This file contains information related to bond lengths, bond angles, dihedrals, and force constants.
 The data is associated with the OPLS-aa force field.
 #### ffnonbonded.itp
-This file contains information on the chemical-physical properties of atoms, which are fundamental for non-bonded interactions.
-The data is associated with the OPLS-aa force field.
+  This file contains information on the chemical-physical properties of atoms, which are fundamental for non-bonded interactions.
+  The data is associated with the OPLS-aa force field.
 #### residuetypes.dat
 This input file presents a list of residues identified with a variable-length code. Each identifier is accompanied by a description specifying the nature of the compound.
 #### tip3p_added.pdb
