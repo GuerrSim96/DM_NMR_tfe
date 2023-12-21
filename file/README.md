@@ -1,5 +1,6 @@
 # Description:
-In this folder, there are the OPLS-aa force field files containing the parameters for trifluoroethanol (TFE) and the protein data bank files necessary for the simulation in a mixture of TFE and water.
+This folder contains the files needed to add trifluoroethanol (TFE) parameters within the OPLS-aa force field, and also the .pdb files needed to build the system to simulate in a mixture of TFE and water.
+## from GROMACS:
 ### atomtypes.atp
 In this file the identification codes of the atoms are associated with the corresponding atomic masses.  
 The data is associated with the OPLS-aa force field.
@@ -10,7 +11,9 @@ The data is associated with the OPLS-aa force field.
 This file contains information on the chemical-physical properties of atoms, which are fundamental for non-bonded interactions.  
 The data is associated with the OPLS-aa force field.
 ### residuetypes.dat
-This input file presents a list of residues identified with a variable-length code. Each identifier is accompanied by a description specifying the nature of the compound.
+This input file presents a list of residues identified with a variable-length code.  
+Each identifier is accompanied by a description specifying the nature of the compound.
+## from scratch:
 ### tip3p_added.pdb
 This file presents the coordinates of a single water molecule.
 ### trifluoroethanol.itp
