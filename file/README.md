@@ -25,4 +25,4 @@ This files are described respectively in the file chemical-physical properties o
 The data is associated with the OPLS-aa force field.
 ### trifluoroethanol.pdb
 ![Static Badge](https://img.shields.io/badge/Custom--written%20file%20-%20%23B8860B)  
-This files contains the three-dimensional arrangement of the atoms of the TFE.
+This files contains the three-dimensional arrangement of the atoms of TFE molecule.
