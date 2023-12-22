@@ -14,5 +14,5 @@ Furthermore, it is not necessary for the user to have in-depth knowledge of comp
 ## Tutorial
 On this section we will see how easy it is to use the MDS-PVT system!
 ### GROMACS_Installation.ipynb
-Before to use this notebook it's imperative to log in on the right account. 
+Before to use this notebook it's imperative to log in on the right account.  
 <sup> One that is dedicated and has enough memory available for installing a program.</sup>
