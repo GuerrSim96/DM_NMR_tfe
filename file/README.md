@@ -15,7 +15,7 @@ The data is associated with the OPLS-aa force field.
 ### residuetypes.dat ![Static Badge](https://img.shields.io/badge/GROMACS%20customized%20file%20-%20%236495ED)  
 This input file presents a list of residues identified with a variable-length code.  
 Each identifier is accompanied by a description specifying the nature of the compound.
-### tip3p_added.pdb <sup> ![Static Badge](https://img.shields.io/badge/Custom--written%20file%20-%20%23B8860B) <sup>
+### tip3p_added.pdb <sup><sub> ![Static Badge](https://img.shields.io/badge/Custom--written%20file%20-%20%23B8860B) </sub></sup>
 This file presents the coordinates of a single water molecule.
 ### trifluoroethanol.itp
 ![Static Badge](https://img.shields.io/badge/Custom--written%20file%20-%20%23B8860B)  
