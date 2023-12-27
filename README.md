@@ -12,7 +12,7 @@ The advantage of using this system is that it does not slow down the user's PC b
 Furthermore, it is not necessary for the user to have in-depth knowledge of computational chemistry to use this system, the only thing he has to do is enter the pdb identification code of the peptide and enter the percentage of trifluoroethanol in which he wants to simulate.
 
 ## Tutorial
-On this section we will see how easy it is to use the MDS-PVT system!
+On this section we are going to see how easy it is to use the MDS-PVT system!
 ### GROMACS_Installation.ipynb
 Before to use this notebook it's imperative to log in on the right account.  
 <sup> One that is dedicated and has enough memory available for installing a program.</sup>
