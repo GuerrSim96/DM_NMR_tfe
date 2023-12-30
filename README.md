@@ -14,5 +14,4 @@ Furthermore, it is not necessary for the user to have in-depth knowledge of comp
 ## Tutorial
 On this section we are going to see how easy it is to use the MDS-PVT system!
 ### GROMACS_Installation.ipynb
-Before to use this notebook it's imperative to log in on the right account.  
-<sup> One that is dedicated and has enough memory available for installing a program.</sup>
+Before using this notebook, ensure you're logged into an account with ample free storage space. It's recommended to use an account specifically generated for this system, as GROMACS will be installed on it, and later, the produced simulation trajectories will be saved there.
