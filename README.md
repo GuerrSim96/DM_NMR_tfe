@@ -16,13 +16,11 @@ Furthermore, it is not necessary for the user to have in-depth knowledge of comp
 ## Tutorial
 On this section we are going to see how easy it is to use the MDS-PVT system!
 ### GROMACS_Installation.ipynb
-Before using this notebook, ensure you're logged into an account with ample free storage space. It's recommended to use an account specifically generated for this system, as GROMACS will be installed on it, and later, the produced simulation trajectories will be saved there.
-
-Once you open the notebook you need to change the "runtime" type by choosing the T4 GPU option, as shown in the GIF below.
-
+Before using this notebook, ensure you're logged into an account with ample free storage space.  
+It's recommended to use an account specifically generated for this system, as GROMACS will be installed on it, and later, the produced simulation trajectories will be saved there.  
+Once you open the notebook you need to change the "runtime" type by choosing the T4 GPU option, as shown in the GIF below.  
 ![gif_runtime](other/change_runtime.gif)
-
-Then, simply press the Ctrl+F9 keys to run all the cells in the notebook.
-Just wait a few minutes (less than an hour), and the notebook will have completed its job.
-Perfect, you have just installed GROMACS on your drive!
+Then, simply press the Ctrl+F9 keys to run all the cells in the notebook.  
+Just wait a few minutes (less than an hour), and the notebook will have completed its job.  
+Perfect, you have just installed GROMACS on your drive!  
 ### Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb
