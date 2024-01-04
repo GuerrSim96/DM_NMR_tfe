@@ -21,3 +21,8 @@ Before using this notebook, ensure you're logged into an account with ample free
 Once you open the notebook you need to change the "runtime" type by choosing the T4 GPU option, as shown in the GIF below.
 
 ![gif_runtime](other/change_runtime.gif)
+
+Then, simply press the Ctrl+F9 keys to run all the cells in the notebook.
+Just wait a few minutes (less than an hour), and the notebook will have completed its job.
+Perfect, you have just installed GROMACS on your drive!
+### Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb
