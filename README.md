@@ -49,5 +49,6 @@ Now, I'll guide you through it in five simple steps:
 
    ![gif_runtime](other/gif/drive_mounted.gif)
 
-###trajectory_analysis.ipynb
+### trajectory_analysis.ipynb
 
+This last notebook will allow you to extrapolate strictural information about the peptide during its trajectory.
