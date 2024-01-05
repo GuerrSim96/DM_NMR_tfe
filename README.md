@@ -31,7 +31,7 @@ With this notebook, we will generate a simulation based on a few inputs that you
 Now, I'll guide you through it in five simple steps:  
 1. Enter the alphanumeric PDB identification code of the peptide;
 
-![gif_runtime](other/inser_pdb_id.gif)
+![gif_runtime](other/insert_pdb_id.gif)
 
 1. Specify the percentage of TFE to be inserted into the system for simulation;  
 1. If you have a Colab subscription, check the "extended_simulation" box to extend the simulation time (optional);  
