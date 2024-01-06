@@ -61,4 +61,4 @@ This last notebook will allow you to extrapolate strictural information about th
 
 #### Secondary Structure Analysis:
 * Ramachandran angle analysis;
-* 
+* Secondary structure assignment using the DSSP algorithm.
