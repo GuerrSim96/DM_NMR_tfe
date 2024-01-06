@@ -56,9 +56,11 @@ This last notebook will allow you to extrapolate strictural information about th
 #### Compactness and Flexibility:
 * Radius of inertia;
 * Surface accessible to the solvent;
-* Root Mean Square Deviation;
-* Root Mean Square Fluctuation.
+* Root Mean Square Deviation (RMSD);
+* Root Mean Square Fluctuation (RMSF).
 
 #### Secondary Structure Analysis:
 * Ramachandran angle analysis;
 * Secondary structure assignment using the DSSP algorithm.
+
+<sup> This Notebook is still a work in progress. </sup>
