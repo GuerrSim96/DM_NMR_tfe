@@ -52,3 +52,13 @@ Now, I'll guide you through it in five simple steps:
 ### trajectory_analysis.ipynb
 
 This last notebook will allow you to extrapolate strictural information about the peptide during its trajectory.
+
+#### Compactness and Flexibility:
+* Radius of inertia;
+* Surface accessible to the solvent;
+* Root Mean Square Deviation;
+* Root Mean Square Fluctuation.
+
+#### Secondary Structure Analysis:
+* Ramachandran angle analysis;
+* 
