@@ -60,6 +60,9 @@ To upload the simulation files to Colab to proceed with the analysis, follow the
 
    ![gif_runtime](other/gif/upload.gif)
 
+> [!WARNING]
+> If there is no subfolder, simply press Enter.
+
 #### Compactness and Flexibility:
 * Radius of inertia;
 * Surface accessible to the solvent;
