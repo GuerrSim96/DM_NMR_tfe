@@ -63,13 +63,13 @@ To upload the simulation files to Colab to proceed with the analysis, follow the
 > [!WARNING]
 > If there is no subfolder, simply press Enter.
 
-#### Compactness and Flexibility:
+#### What can I analyze?
+##### Compactness and Flexibility:
 * Radius of inertia;
 * Surface accessible to the solvent;
 * Root Mean Square Deviation (RMSD);
 * Root Mean Square Fluctuation (RMSF).
-
-#### Secondary Structure Analysis:
+##### Secondary Structure Analysis:
 * Ramachandran angle analysis;
 * Secondary structure assignment using the DSSP algorithm.
 
