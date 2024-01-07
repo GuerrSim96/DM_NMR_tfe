@@ -16,9 +16,12 @@ Furthermore, it is not necessary for the user to have in-depth knowledge of comp
 ## Tutorial
 On this section we are going to see how easy it is to use the MDS-PVT system!
 ### GROMACS_Installation.ipynb
-Before using this notebook, ensure you're logged into an account with ample free storage space.  
+
 It's recommended to use an account specifically generated for this system, as GROMACS will be installed on it, and later, the produced simulation trajectories will be saved there.  
 Once you open the notebook you need to change the "runtime" type by choosing the T4 GPU option, as shown in the GIF below.  
+
+> [!IMPORTANT]
+> Before using this notebook, ensure you're logged into an account with ample free storage space.  
 
 ![gif_runtime](other/gif/change_runtime.gif)
 
