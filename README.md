@@ -55,7 +55,10 @@ Now, I'll guide you through it in five simple steps:
 
 ### trajectory_analysis.ipynb
 
-This last notebook will allow you to extrapolate strictural information about the peptide during its trajectory.
+This last notebook will allow you to extrapolate strictural information about the peptide during its trajectory.  
+To upload the simulation files to Colab to proceed with the analysis, follow the example shown in the GIF below.
+
+   ![gif_runtime](other/gif/upload.gif)
 
 #### Compactness and Flexibility:
 * Radius of inertia;
