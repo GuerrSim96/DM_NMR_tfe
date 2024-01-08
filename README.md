@@ -68,7 +68,7 @@ To upload the simulation files to Colab to proceed with the analysis, follow the
 * Radius of inertia;
 * Root Mean Square Deviation (RMSD);
 * Root Mean Square Fluctuation (RMSF);
-* Surface accessible to the solvent.
+* Solvent-accessible surface area (SASA).
 
 ##### Secondary Structure Analysis:
 * Ramachandran angle analysis;
