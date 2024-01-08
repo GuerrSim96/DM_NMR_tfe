@@ -45,7 +45,7 @@ Now, I'll guide you through it in five simple steps:
 
    ![gif_runtime](other/gif/optional.gif)
    
-1. Ensure that the "runtime" is set to "T4 GPU," then press Ctrl+F9 to run all cells;
+1. Ensure that the "runtime" is set to "T4 GPU," then press <kbd>Ctrl</kbd>+<kbd>F9</kbd> to run all cells;
 
    ![gif_runtime](other/gif/set_runtime.gif)
 
