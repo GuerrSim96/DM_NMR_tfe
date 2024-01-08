@@ -73,4 +73,4 @@ To upload the simulation files to Colab to proceed with the analysis, follow the
 * Ramachandran angle analysis;
 * Secondary structure assignment using the DSSP algorithm.
 
-<sup> This Notebook is still a work in progress. </sup>
+> <sup> This Notebook is still a work in progress. </sup>
