@@ -66,9 +66,10 @@ To upload the simulation files to Colab to proceed with the analysis, follow the
 #### What can I analyze?
 ##### Compactness and Flexibility:
 * Radius of inertia;
-* Surface accessible to the solvent;
 * Root Mean Square Deviation (RMSD);
-* Root Mean Square Fluctuation (RMSF).
+* Root Mean Square Fluctuation (RMSF);
+* Surface accessible to the solvent.
+
 ##### Secondary Structure Analysis:
 * Ramachandran angle analysis;
 * Secondary structure assignment using the DSSP algorithm.
