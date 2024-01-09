@@ -18,7 +18,8 @@ Furthermore, it is not necessary for the user to have in-depth knowledge of comp
 On this section we are going to see how easy it is to use the MDS-PVT system!
 
 ### GROMACS_Installation.ipynb  
-![Static Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray&link=https%3A%2F%2Fgithub.com%2FGuerrSim96%2FMDS-PVT%2Fblob%2Fmain%2FGROMACS_installation.ipynb)  
+![Static Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray)
+
 Once you open the notebook you need to change the "runtime" type by choosing the T4 GPU option, as shown in the GIF below.  
 
 > [!IMPORTANT]
