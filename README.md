@@ -70,7 +70,7 @@ To upload the simulation files to Colab to proceed with the analysis, follow the
 * Root Mean Square Fluctuation (RMSF);
 * Solvent-accessible surface area (SASA).
 
-##### Analyze Secondary Structure Analysis:
+##### Analyze Secondary Structure:
 * Ramachandran angle analysis;
 * Secondary structure assignment using the DSSP algorithm.
 
