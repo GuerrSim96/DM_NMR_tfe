@@ -12,11 +12,11 @@ The advantage of using this system is that it does not slow down the user's PC b
 Furthermore, it is not necessary for the user to have in-depth knowledge of computational chemistry to use this system, the only thing he has to do is enter the pdb identification code of the peptide and enter the percentage of trifluoroethanol in which he wants to simulate.
 
 ![logo](other/logo/basic_MDS-PVT.png)
+---
 
 ## Tutorial
 On this section we are going to see how easy it is to use the MDS-PVT system!
 ### GROMACS_Installation.ipynb 
----
 Once you open the notebook you need to change the "runtime" type by choosing the T4 GPU option, as shown in the GIF below.  
 
 > [!IMPORTANT]
@@ -30,9 +30,8 @@ Once you open the notebook you need to change the "runtime" type by choosing the
 Then, simply press the <kbd>Ctrl</kbd>+<kbd>F9</kbd> keys to run all the cells in the notebook.  
 Just wait a few minutes (less than an hour), and the notebook will have completed its job.  
 Perfect, you have just installed GROMACS on your drive!  
-
-### Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb
 ---
+### Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb
 With this notebook, we will generate a simulation based on a few inputs that you need to enter!  
 Now, I'll guide you through it in five simple steps:  
 1. Enter the alphanumeric PDB identification code of the peptide;
@@ -54,9 +53,8 @@ Now, I'll guide you through it in five simple steps:
 1. Click on the URL that appears as the last output from the "Mount the Drive" cell. A new window will open, where you need to select the account on which you installed GROMACS with the previous notebook. Afterward, click on the 'allow' button.
 
    ![gif_runtime](other/gif/drive_mounted.gif)
-
-### trajectory_analysis.ipynb
 ---
+### trajectory_analysis.ipynb
 This last notebook will allow you to extrapolate strictural information about the peptide during its trajectory.  
 To upload the simulation files to Colab to proceed with the analysis, follow the example shown in the GIF below.
 
