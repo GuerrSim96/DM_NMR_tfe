@@ -13,10 +13,11 @@ Furthermore, it is not necessary for the user to have in-depth knowledge of comp
 
 ![logo](other/logo/basic_MDS-PVT.png)
 
----
+___
 ## Tutorial
 On this section we are going to see how easy it is to use the MDS-PVT system!
 
+---
 ### GROMACS_Installation.ipynb 
 Once you open the notebook you need to change the "runtime" type by choosing the T4 GPU option, as shown in the GIF below.  
 
