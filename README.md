@@ -35,7 +35,7 @@ Perfect, you have just installed GROMACS on your drive!
 
 ---
 ### Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb
-![Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray&link=https%3A%2F%2Fgithub.com%2FGuerrSim96%2FMDS-PVT%2Fblob%2Fmain%2FMolecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb)  
+![Static Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray&link=https%3A%2F%2Fgithub.com%2FGuerrSim96%2FMDS-PVT%2Fblob%2Fmain%2FMolecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb)  
 With this notebook, we will generate a simulation based on a few inputs that you need to enter!  
 Now, I'll guide you through it in five simple steps:  
 1. Enter the alphanumeric PDB identification code of the peptide;
