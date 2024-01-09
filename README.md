@@ -36,7 +36,7 @@ Perfect, you have just installed GROMACS on your drive!
 
 ---
 ### Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb
-![Static Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray&link=https%3A%2F%2Fgithub.com%2FGuerrSim96%2FMDS-PVT%2Fblob%2Fmain%2FMolecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb)  
+[![Static Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray)](https://github.com/GuerrSim96/MDS-PVT/blob/main/Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb)    
 With this notebook, we will generate a simulation based on a few inputs that you need to enter!  
 Now, I'll guide you through it in five simple steps:  
 1. Enter the alphanumeric PDB identification code of the peptide;
@@ -61,7 +61,7 @@ Now, I'll guide you through it in five simple steps:
 
 ---
 ### trajectory_analysis.ipynb
-![Static Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray&link=https%3A%2F%2Fgithub.com%2FGuerrSim96%2FMDS-PVT%2Fblob%2Fmain%2Ftrajectory_analysis.ipynb)  
+[![Static Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray)](https://github.com/GuerrSim96/MDS-PVT/blob/main/trajectory_analysis.ipynb)  
 This last notebook will allow you to extrapolate strictural information about the peptide during its trajectory.  
 To upload the simulation files to Colab to proceed with the analysis, follow the example shown in the GIF below.
 
