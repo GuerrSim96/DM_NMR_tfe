@@ -2,8 +2,8 @@
   <img src="https://github.com/GuerrSim96/MDS-PVT/blob/main/other/logo/basic_MDS-PVT.png" />
 </p>
 
-# MDS-PVT
-MDS-PVT is a system designed for conducting Molecular Dynamics Simulations (MDS) to study Peptides in Variable fractions of Trifluoroethanol (PVT).
+# MDS-pVT
+MDS-pVT is a system designed for conducting Molecular Dynamics Simulations (MDS) to study peptides in Variable fractions of Trifluoroethanol (pVT).
 The system enables the generation of trajectories for peptides within aqueous or membrane-like environments.
 
 The system is composed by three Notebooks:
@@ -17,10 +17,10 @@ Furthermore, it is not necessary for the user to have in-depth knowledge of comp
 
 ---
 ## Tutorial
-On this section we are going to see how easy it is to use the MDS-PVT system!
+On this section we are going to see how easy it is to use the MDS-pVT system!
 
 ### GROMACS_Installation.ipynb  
-[![Static Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray)](https://github.com/GuerrSim96/MDS-PVT/blob/main/GROMACS_installation.ipynb)
+[![Static Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray)](https://github.com/GuerrSim96/MDS-pVT/blob/main/GROMACS_installation.ipynb)
 
 Once you open the notebook you need to change the "runtime" type by choosing the T4 GPU option, as shown in the GIF below.  
 
@@ -38,7 +38,7 @@ Perfect, you have just installed GROMACS on your drive!
 
 ---
 ### Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb
-[![Static Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray)](https://github.com/GuerrSim96/MDS-PVT/blob/main/Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb)    
+[![Static Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray)](https://github.com/GuerrSim96/MDS-pVT/blob/main/Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb)    
 With this notebook, we will generate a simulation based on a few inputs that you need to enter!  
 Now, I'll guide you through it in five simple steps:  
 1. Enter the alphanumeric PDB identification code of the peptide;
@@ -63,7 +63,7 @@ Now, I'll guide you through it in five simple steps:
 
 ---
 ### trajectory_analysis.ipynb
-[![Static Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray)](https://github.com/GuerrSim96/MDS-PVT/blob/main/trajectory_analysis.ipynb)  
+[![Static Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray)](https://github.com/GuerrSim96/MDS-pVT/blob/main/trajectory_analysis.ipynb)  
 This last notebook will allow you to extrapolate strictural information about the peptide during its trajectory.  
 To upload the simulation files to Colab to proceed with the analysis, follow the example shown in the GIF below.
 
