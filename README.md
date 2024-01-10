@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[http://other/logo/basic_MDS-PVT.png](https://github.com/GuerrSim96/MDS-PVT/blob/main/other/logo/basic_MDS-PVT.png)" />
+  <img src="https://github.com/GuerrSim96/MDS-PVT/blob/main/other/logo/basic_MDS-PVT.png" />
 </p>
 
 # MDS-PVT
