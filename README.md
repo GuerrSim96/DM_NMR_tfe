@@ -55,7 +55,7 @@ Now, I'll guide you through it in five simple steps:
 
    ![gif_runtime](other/gif/set_runtime.gif)
 
-1. Click on the URL that appears as the last output from the "Mount the Drive" cell. A new window will open, where you need to select the account on which you installed GROMACS with the previous notebook. Afterward, click on the 'allow' button.
+1. Click on the URL that appears as the last row output from the "Mount the Drive" cell. A new window will open, where you need to select the account on which you installed GROMACS with the previous notebook. Afterward, click on the 'allow' button.
 
    ![gif_runtime](other/gif/drive_mounted.gif)
 
