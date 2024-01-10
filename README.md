@@ -17,7 +17,7 @@ Furthermore, it is not necessary for the user to have in-depth knowledge of comp
 
 ---
 ## Tutorial
-On this section we are going to see how easy it is to use the MDS-PVT system!
+On this section we are going to see how easy it is to use the MDS-pVT system!
 
 ### GROMACS_Installation.ipynb  
 [![Static Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray)](https://github.com/GuerrSim96/MDS-PVT/blob/main/GROMACS_installation.ipynb)
