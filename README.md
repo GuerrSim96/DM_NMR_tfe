@@ -84,4 +84,4 @@ Whit this Notebook you can:
 * Ramachandran angle analysis;
 * Secondary structure assignment using the DSSP algorithm.
 
-> <sup> This Notebook is still a work in progress. </sup>
+> <sup><sub> This Notebook will be further implemented. </sub></sup>
