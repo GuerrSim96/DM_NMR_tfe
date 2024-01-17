@@ -87,6 +87,4 @@ Whit this Notebook you can:
 > <sup><sub> This Notebook will be further implemented. </sub></sup>
 
 ## Coming soon
-In the future a docker file for this system will be implemented to allow its use on high performance computers and with larger protein systems.
-
-
+In the future, a Docker file will be implemented to facilitate the simulation of larger protein systems on high-performance computers using this system.
