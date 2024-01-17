@@ -85,3 +85,8 @@ Whit this Notebook you can:
 * Secondary structure assignment using the DSSP algorithm.
 
 > <sup><sub> This Notebook will be further implemented. </sub></sup>
+
+## Coming soon
+In the future a docker file for this system will be implemented to allow its use on high performance computers and with larger protein systems.
+
+
