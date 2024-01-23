@@ -34,7 +34,8 @@ Once you open the notebook you need to change the "runtime" type by choosing the
 ![gif_runtime](other/gif/change_runtime.gif)
 
 Then, simply press the <kbd>Ctrl</kbd>+<kbd>F9</kbd> keys to run all the cells in the notebook.  
-Just wait a few minutes (less than an hour), and the notebook will have completed its job.  
+Just wait a few minutes (approximately 90 minutes), and the notebook will have completed its job.  
+
 Perfect, you have just installed GROMACS on your drive!  
 
 ---
