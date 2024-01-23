@@ -26,7 +26,7 @@ Once you open the notebook you need to change the "runtime" type by choosing the
 
 > [!IMPORTANT]
 > Before using this notebook, ensure you're logged into an account with ample free storage space.
-> The MDS-pVT system requires approximately 1.02 GB for installation on the drive, and each simulation saves on the drive from 0.37 GB to 1.82 GB of data size.
+> The MDS-pVT system requires approximately 1.95 GB for installation on the drive, and each simulation saves on the drive from 0.37 GB to 1.82 GB of data size.
 
 > [!TIP]
 > It's recommended to use an account specifically generated for this system, as GROMACS will be installed on it, and later, the produced simulation trajectories will be saved there.
@@ -37,6 +37,9 @@ Then, simply press the <kbd>Ctrl</kbd>+<kbd>F9</kbd> keys to run all the cells i
 Just wait a few minutes (approximately 90 minutes), and the notebook will have completed its job.  
 
 Perfect, you have just installed GROMACS on your drive!  
+
+> [!WARNING]
+> Before to proceeding with the second notebook, ensure that the entire 1.95 GB of GROMACS files has been successfully loaded onto the drive.  
 
 ---
 ### Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb
