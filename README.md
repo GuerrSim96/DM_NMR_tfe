@@ -19,11 +19,11 @@ Furthermore, it is not necessary for the user to have in-depth knowledge of comp
 ## Tutorial
 On this section we are going to see how easy it is to use the MDS-pVT system!
 
-| Notebook | Description |
-| :---: | --- |
-| GROMACS_Installation.ipynb \n [![Static Badge](https://img.shields.io/badge/Click_here-goldenrod?logo=googlecolab&labelColor=gray)](https://github.com/GuerrSim96/MDS-pVT/blob/main/GROMACS_installation.ipynb) | Install GROMACS on your Drive |
-| Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb  [![Static Badge](https://img.shields.io/badge/Click_here-goldenrod?logo=googlecolab&labelColor=gray)](https://github.com/GuerrSim96/MDS-pVT/blob/main/Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb) | Run MD simulations |
-| trajectory_analysis.ipynb  [![Static Badge](https://img.shields.io/badge/Click_here-goldenrod?logo=googlecolab&labelColor=gray)](https://github.com/GuerrSim96/MDS-pVT/blob/main/trajectory_analysis.ipynb) | Analyze the trajectory |
+| | Notebook | Description |
+| :---: | --- | --- |
+| [![Static Badge](https://img.shields.io/badge/Click_here-goldenrod?logo=googlecolab&labelColor=gray)](https://github.com/GuerrSim96/MDS-pVT/blob/main/GROMACS_installation.ipynb) | GROMACS_Installation.ipynb | Install GROMACS on your Drive |
+| [![Static Badge](https://img.shields.io/badge/Click_here-goldenrod?logo=googlecolab&labelColor=gray)](https://github.com/GuerrSim96/MDS-pVT/blob/main/Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb) | Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb | Run MD simulations |
+| [![Static Badge](https://img.shields.io/badge/Click_here-goldenrod?logo=googlecolab&labelColor=gray)](https://github.com/GuerrSim96/MDS-pVT/blob/main/trajectory_analysis.ipynb) | trajectory_analysis.ipynb | Analyze the trajectory |
 
 ---
 ### GROMACS_Installation.ipynb  
