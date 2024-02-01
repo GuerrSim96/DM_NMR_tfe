@@ -104,7 +104,5 @@ In the future, a Docker file will be implemented to facilitate the simulation of
 
 ## Reporting Issues or Requesting Analysis
 
-If you encounter any issues with the system or wish to request an analysis on another aspect of the trajectory, we encourage you to send us an email at [GuerrSim96@gmail.com](mailto:guerrsim96@gmail.com).  
+If you encounter any issues with the system or wish to request an analysis on another aspect of the trajectory, we encourage you to send us an email at [GuerrSim96@gmail.com](mailto:guerrsim96@gmail.com).
 We will be happy to assist you and continually improve this project.
-
-Thank you for your contribution!
