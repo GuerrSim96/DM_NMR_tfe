@@ -84,7 +84,7 @@ To upload the simulation files to Colab to proceed with the analysis, follow the
 > [!WARNING]
 > If there is no subfolder, simply press <kbd>Enter</kbd>.
 
-Whit this Notebook you can:
+With this Notebook you can:
 
 #### Analyze Compactness and Flexibility:
 * Radius of inertia;
