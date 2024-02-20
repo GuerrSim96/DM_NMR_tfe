@@ -46,7 +46,7 @@ Just wait a few minutes (approximately 90 minutes), and the notebook will have c
 Perfect, you have just installed GROMACS on your drive!  
 
 > [!WARNING]
-> Before to proceeding with the second notebook, ensure that the entire 1.95 GB of GROMACS files has been successfully loaded onto the drive.  
+> Before proceeding with the second notebook, ensure that the entire 1.95 GB of GROMACS files has been successfully loaded onto the drive.  
 
 ---
 ### Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb
