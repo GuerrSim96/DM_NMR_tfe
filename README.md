@@ -124,23 +124,35 @@ Now, I'll guide you through it in five simple steps:
 
 With this Notebook you can:
 
-#### Analyze Compactness and Flexibility:
+<h4>
+  Analyze Compactness and Flexibility:
+</h4>
 * Radius of inertia;
 * Root Mean Square Deviation (RMSD);
 * Root Mean Square Fluctuation (RMSF);
 * Solvent-accessible surface area (SASA).
 
-#### Analyze Secondary Structure:
+<h4>
+  Analyze Secondary Structure:
+</h4>
 * Ramachandran angle analysis;
 * Secondary structure assignment using the DSSP algorithm.
 
-#### Analyze Trajectory:
+<h4>
+  Analyze Trajectory:
+</h4>
 * PCA to visualize the trajectory.
 
-## Coming soon
-In the future, a Docker file will be implemented to facilitate the simulation of larger protein systems on high-performance computers using this system.  
+<h2>
+  Coming soon
+</h2>
+<p>
+  In the future, a Docker file will be implemented to facilitate the simulation of larger protein systems on high-performance computers using this system.  
+</p>
+<h2>
+  Reporting Issues or Requesting Analysis
+</h2>
 
-## Reporting Issues or Requesting Analysis
-
-If you encounter any issues with the system or wish to request an analysis on another aspect of the trajectory, we encourage you to send us an email at [GuerrSim96@gmail.com](mailto:guerrsim96@gmail.com).
-We will be happy to assist you and continually improve this project.
+<p>
+  If you encounter any issues with the system or wish to request an analysis on another aspect of the trajectory, we encourage you to send us an email at <b>GuerrSim96@gmail.com</b>. We will be happy to assist you and continually improve this project.
+</p>
