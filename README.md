@@ -27,7 +27,7 @@ Furthermore, it is not necessary for the user to have in-depth knowledge of comp
 
 <p align="center">
 On this section we are going to see how easy it is to use the MDS-pVT system! 
-<table> 
+<table align ="center"> 
   <tr>
     <th> </th>
     <th> Notebook </th>
