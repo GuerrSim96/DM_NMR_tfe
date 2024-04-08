@@ -2,7 +2,7 @@
   <img src="https://github.com/GuerrSim96/MDS-PVT/blob/main/other/logo/basic_MDS-pVT.png" />
 </p>
 
-<h1 align="center"> MDS-pVT </h1>
+<h1 align="center"><b> MDS-pVT </b></h1>
 MDS-pVT is a system designed for conducting Molecular Dynamics Simulations (MDS) to study peptides in Variable fractions of Trifluoroethanol (pVT).  
 The system enables the generation of trajectories for peptides within aqueous or membrane-like environments.
 
@@ -16,7 +16,7 @@ The advantage of using this system is that it does not slow down the user's PC b
 Furthermore, it is not necessary for the user to have in-depth knowledge of computational chemistry to use this system, the only thing he has to do is enter the pdb identification code of the peptide and enter the percentage of trifluoroethanol in which he wants to simulate.
 
 ---
-<h2 align="center"> Tutorial </h2>
+<h2 align="center"><b> Tutorial </b></h2>
 On this section we are going to see how easy it is to use the MDS-pVT system!
 
 | | Notebook | Description |
@@ -26,9 +26,8 @@ On this section we are going to see how easy it is to use the MDS-pVT system!
 | [![Static Badge](https://img.shields.io/badge/Take_a_look-dodgerblue?logo=github&labelColor=gray)](https://github.com/GuerrSim96/MDS-pVT/blob/main/trajectory_analysis.ipynb) | trajectory_analysis.ipynb | Analyze the trajectory on Colab |
 
 ---
-<h3> GROMACS_Installation.ipynb [![Static Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray)](https://colab.research.google.com/github/GuerrSim96/Molecular_Dynamics_Simulation_with_Trifluoroethanol/blob/main/GROMACS_installation.ipynb)
- </h3>
-
+<h3> GROMACS_Installation.ipynb </h3>
+[![Static Badge](https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray)](https://colab.research.google.com/github/GuerrSim96/Molecular_Dynamics_Simulation_with_Trifluoroethanol/blob/main/GROMACS_installation.ipynb)
 Once you open the notebook you need to change the "runtime" type by choosing the T4 GPU option, as shown in the GIF below.  
 
 > [!IMPORTANT]
