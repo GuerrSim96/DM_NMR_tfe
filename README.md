@@ -17,7 +17,7 @@ The advantage of using this system is that it does not slow down the user's PC b
   <img src="https://github.com/GuerrSim96/MDS-PVT/blob/main/other/logo/basic_MDS-pVT.png"/>
 </p>
 
-<hr size="10">
+<hr>
 
 <h2 align="center">
   TUTORIAL
@@ -60,7 +60,7 @@ On this section we are going to see how easy it is to use the MDS-pVT system!
 </table> 
 </p>
 
-<hr size="2">
+<hr>
 
 <h3>
   GROMACS_Installation.ipynb
