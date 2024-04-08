@@ -1,4 +1,8 @@
-<h1 align="center">
+<style>
+  h1 {color:red;}
+</style>
+
+<h1 align="center" style="color:red">
   MDS-pVT
 </h1>
 
@@ -20,7 +24,7 @@ Furthermore, it is not necessary for the user to have in-depth knowledge of comp
 </p>
 
 ---
-<body style="color:red">
+
 <h2 align="center">
   TUTORIAL
 </h2>
@@ -191,4 +195,3 @@ With this Notebook you can:
 <p>
   If you encounter any issues with the system or wish to request an analysis on another aspect of the trajectory, we encourage you to send us an email at <b>GuerrSim96@gmail.com</b>. We will be happy to assist you and continually improve this project.
 </p>
-</body>
