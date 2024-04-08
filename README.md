@@ -30,43 +30,38 @@ On this section we are going to see how easy it is to use the MDS-pVT system!
 </p>
  
 <table> 
-<tr>
-<th> Notebook </th>
-<th> Description </th>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/GuerrSim96/MDS-pVT/blob/main/GROMACS_installation.ipynb">
-<img src="https://img.shields.io/badge/Take_a_look-dodgerblue?logo=github&labelColor=gray"/>
-</a>
-</td>
-<td> GROMACS_Installation.ipynb </td>
-<td> Install GROMACS on your Drive </td>
-<tr>
-<td>
-<a href="https://github.com/GuerrSim96/MDS-pVT/blob/main/Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb">
-<img src="https://img.shields.io/badge/Take_a_look-dodgerblue?logo=github&labelColor=gray">
-</a>
-</td>
-<td> Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb </td>
-<td> Run MD simulations on Colab </td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/GuerrSim96/MDS-pVT/blob/main/trajectory_analysis.ipynb">
-<img src="https://img.shields.io/badge/Take_a_look-dodgerblue?logo=github&labelColor=gray">
-</a>
-</td>
-<td> trajectory_analysis.ipynb </td>
-<td> Analyze the trajectory on Colab </td>
-</tr>
+  <tr>
+    <th> </th>
+    <th> Notebook </th>
+    <th> Description </th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/GuerrSim96/MDS-pVT/blob/main/GROMACS_installation.ipynb">
+        <img src="https://img.shields.io/badge/Take_a_look-dodgerblue?logo=github&labelColor=gray"/>
+      </a>
+    </td>
+    <td> GROMACS_Installation.ipynb </td>
+    <td> Install GROMACS on your Drive </td>
+  <tr>
+    <td>
+      <a href="https://github.com/GuerrSim96/MDS-pVT/blob/main/Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb">
+        <img src="https://img.shields.io/badge/Take_a_look-dodgerblue?logo=github&labelColor=gray">
+      </a>
+    </td>
+    <td> Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb </td>
+    <td> Run MD simulations on Colab </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/GuerrSim96/MDS-pVT/blob/main/trajectory_analysis.ipynb">
+        <img src="https://img.shields.io/badge/Take_a_look-dodgerblue?logo=github&labelColor=gray">
+      </a>
+    </td>
+    <td> trajectory_analysis.ipynb </td>
+    <td> Analyze the trajectory on Colab </td>
+  </tr>
 </table> 
-
-| | Notebook | Description |
-| :---: | --- | --- |
-| [![Static Badge](https://img.shields.io/badge/Take_a_look-dodgerblue?logo=github&labelColor=gray)](https://github.com/GuerrSim96/MDS-pVT/blob/main/GROMACS_installation.ipynb) | GROMACS_Installation.ipynb | Install GROMACS on your Drive |
-| [![Static Badge](https://img.shields.io/badge/Take_a_look-dodgerblue?logo=github&labelColor=gray)](https://github.com/GuerrSim96/MDS-pVT/blob/main/Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb) | Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb | Run MD simulations on Colab |
-| [![Static Badge](https://img.shields.io/badge/Take_a_look-dodgerblue?logo=github&labelColor=gray)](https://github.com/GuerrSim96/MDS-pVT/blob/main/trajectory_analysis.ipynb) | trajectory_analysis.ipynb | Analyze the trajectory on Colab |
 
 ---
 
