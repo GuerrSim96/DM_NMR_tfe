@@ -2,7 +2,7 @@
   <img src="https://github.com/GuerrSim96/MDS-PVT/blob/main/other/logo/basic_MDS-pVT.png" />
 </p>
 
-<h1 text-align="center"> MDS-pVT </h1>
+<h1 align="center"> MDS-pVT </h1>
 MDS-pVT is a system designed for conducting Molecular Dynamics Simulations (MDS) to study peptides in Variable fractions of Trifluoroethanol (pVT).  
 The system enables the generation of trajectories for peptides within aqueous or membrane-like environments.
 
