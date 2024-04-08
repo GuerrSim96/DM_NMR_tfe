@@ -1,9 +1,9 @@
 <h1 align="center">
-  <u> MDS-pVT </u>
+   MDS-pVT
 </h1>
 
 <p>
-MDS-pVT is a system designed for conducting Molecular Dynamics Simulations (MDS) to study peptides in Variable fractions of Trifluoroethanol (pVT).  
+<u>MDS-pVT</u> is a system designed for conducting Molecular Dynamics Simulations (MDS) to study peptides in Variable fractions of Trifluoroethanol (pVT).  
 The system enables the generation of trajectories for peptides within aqueous or membrane-like environments.<br>
   The system is composed by three Notebooks:
 <ol>
