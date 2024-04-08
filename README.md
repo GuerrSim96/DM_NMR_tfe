@@ -1,9 +1,5 @@
-<style>
-  h1 {color:red;}
-</style>
-
-<h1 align="center" style="color:red">
-  MDS-pVT
+<h1 align="center">
+  <u> MDS-pVT </u>
 </h1>
 
 <p>
