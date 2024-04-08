@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GuerrSim96/MDS-PVT/blob/main/other/logo/basic_MDS-pVT.png" />
+  <img src="https://github.com/GuerrSim96/MDS-PVT/blob/main/other/logo/basic_MDS-pVT.png"/>
 </p>
 
 <h1 align="center">
@@ -8,15 +8,14 @@
 
 <p>
 MDS-pVT is a system designed for conducting Molecular Dynamics Simulations (MDS) to study peptides in Variable fractions of Trifluoroethanol (pVT).  
-The system enables the generation of trajectories for peptides within aqueous or membrane-like environments.
-
-The system is composed by three Notebooks:
-1.  The first one results in installing the open source software GROMACS and to adds parameters of trifluoroethanol into the OPLS-aa force field;
-1.  The second one is responsible to produce the trajectory of a molecular system using the functionality provided by GROMACS;
-1.  The third one is dedicated to analyzing the conformational changes of the peptide throughout the trajectory obtained from the simulation.
-
-The advantage of using this system is that it does not slow down the user's PC because the GROMACS is installed on the Google Drive and the calculations are carried out with the T4 GPUs made available to Google with Colaboratoory.
-
+The system enables the generation of trajectories for peptides within aqueous or membrane-like environments.<br>
+  The system is composed by three Notebooks:
+<ol>
+  <li>The first one results in installing the open source software GROMACS and to adds parameters of trifluoroethanol into the OPLS-aa force field;</li>
+  <li>The second one is responsible to produce the trajectory of a molecular system using the functionality provided by GROMACS; </li>
+  <li>The third one is dedicated to analyzing the conformational changes of the peptide throughout the trajectory obtained from the simulation.</li>
+</ol>
+The advantage of using this system is that it does not slow down the user's PC because the GROMACS is installed on the Google Drive and the calculations are carried out with the T4 GPUs made available to Google with Colaboratoory.<br> 
 Furthermore, it is not necessary for the user to have in-depth knowledge of computational chemistry to use this system, the only thing he has to do is enter the pdb identification code of the peptide and enter the percentage of trifluoroethanol in which he wants to simulate.
 </p>
 
@@ -29,6 +28,39 @@ Furthermore, it is not necessary for the user to have in-depth knowledge of comp
 <p>
 On this section we are going to see how easy it is to use the MDS-pVT system!
 </p>
+ 
+<table> 
+<tr>
+<th> Notebook </th>
+<th> Description </th>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/GuerrSim96/MDS-pVT/blob/main/GROMACS_installation.ipynb">
+<img src="https://img.shields.io/badge/Take_a_look-dodgerblue?logo=github&labelColor=gray"/>
+</a>
+</td>
+<td> GROMACS_Installation.ipynb </td>
+<td> Install GROMACS on your Drive </td>
+<tr>
+<td>
+<a href="https://github.com/GuerrSim96/MDS-pVT/blob/main/Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb">
+<img src="https://img.shields.io/badge/Take_a_look-dodgerblue?logo=github&labelColor=gray">
+</a>
+</td>
+<td> Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb </td>
+<td> Run MD simulations on Colab </td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/GuerrSim96/MDS-pVT/blob/main/trajectory_analysis.ipynb">
+<img src="https://img.shields.io/badge/Take_a_look-dodgerblue?logo=github&labelColor=gray">
+</a>
+</td>
+<td> trajectory_analysis.ipynb </td>
+<td> Analyze the trajectory on Colab </td>
+</tr>
+</table> 
 
 | | Notebook | Description |
 | :---: | --- | --- |
@@ -124,23 +156,33 @@ With this Notebook you can:
 <h4>
   Analyze Compactness and Flexibility:
 </h4>
+<p>
 <ul>
-<li>Radius of inertia;</li>
-<li>Root Mean Square Deviation (RMSD);</li>
-<li>Root Mean Square Fluctuation (RMSF);</li>
-<li>Solvent-accessible surface area (SASA).</li>
+  <li>Radius of inertia;</li>
+  <li>Root Mean Square Deviation (RMSD);</li>
+  <li>Root Mean Square Fluctuation (RMSF);</li>
+  <li>Solvent-accessible surface area (SASA).</li>
 </ul>
+</p>
 
 <h4>
   Analyze Secondary Structure:
 </h4>
-* Ramachandran angle analysis;
-* Secondary structure assignment using the DSSP algorithm.
+<p>
+<ul>
+  <li>Ramachandran angle analysis;</li>
+  <li>Secondary structure assignment using the DSSP algorithm.</li>
+</ul>
+</p>
 
 <h4>
   Analyze Trajectory:
 </h4>
-* PCA to visualize the trajectory.
+<p>
+<ul>
+  <li>PCA to visualize the trajectory.</li>
+</ul>
+</p>
 
 <h2>
   Coming soon
@@ -151,7 +193,6 @@ With this Notebook you can:
 <h2>
   Reporting Issues or Requesting Analysis
 </h2>
-
 <p>
   If you encounter any issues with the system or wish to request an analysis on another aspect of the trajectory, we encourage you to send us an email at <b>GuerrSim96@gmail.com</b>. We will be happy to assist you and continually improve this project.
 </p>
