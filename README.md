@@ -19,6 +19,10 @@ The advantage of using this system is that it does not slow down the user's PC b
 Furthermore, it is not necessary for the user to have in-depth knowledge of computational chemistry to use this system, the only thing he has to do is enter the pdb identification code of the peptide and enter the percentage of trifluoroethanol in which he wants to simulate.
 </p>
 
+<p align="center">
+  <img src="https://github.com/GuerrSim96/MDS-PVT/blob/main/other/logo/basic_MDS-pVT.png"/>
+</p>
+
 ---
 
 <h2 align="center">
