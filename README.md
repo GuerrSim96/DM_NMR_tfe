@@ -20,7 +20,7 @@ Furthermore, it is not necessary for the user to have in-depth knowledge of comp
 </p>
 
 ---
-<body style="font-family:serif">
+<body style="color:red">
 <h2 align="center">
   TUTORIAL
 </h2>
