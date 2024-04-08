@@ -26,7 +26,7 @@ On this section we are going to see how easy it is to use the MDS-pVT system!
 | [![Static Badge](https://img.shields.io/badge/Take_a_look-dodgerblue?logo=github&labelColor=gray)](https://github.com/GuerrSim96/MDS-pVT/blob/main/trajectory_analysis.ipynb) | trajectory_analysis.ipynb | Analyze the trajectory on Colab |
 
 ---
-<h3 align="center"><a href="https://colab.research.google.com/github/GuerrSim96/Molecular_Dynamics_Simulation_with_Trifluoroethanol/blob/main/GROMACS_installation.ipynb"> GROMACS_Installation.ipynb <img src="https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray"/></a></h3>
+<h3 color="#FFFFFF", align="center"><a href="https://colab.research.google.com/github/GuerrSim96/Molecular_Dynamics_Simulation_with_Trifluoroethanol/blob/main/GROMACS_installation.ipynb"> GROMACS_Installation.ipynb <img src="https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray"/></a></h3>
 
 Once you open the notebook you need to change the "runtime" type by choosing the T4 GPU option, as shown in the GIF below.  
 
