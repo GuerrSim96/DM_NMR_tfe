@@ -178,13 +178,14 @@ With this Notebook you can:
 </ul>
 </p>
 
-<h2>
+<h2 align="center">
   Coming soon
 </h2>
 <p>
   In the future, a Docker file will be implemented to facilitate the simulation of larger protein systems on high-performance computers using this system.  
 </p>
-<h2>
+
+<h2 align="center">
   Reporting Issues or Requesting Analysis
 </h2>
 <p>
