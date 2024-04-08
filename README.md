@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/GuerrSim96/MDS-PVT/blob/main/other/logo/basic_MDS-pVT.png"/>
-</p>
-
 <h1 align="center">
   MDS-pVT
 </h1>
