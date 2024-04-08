@@ -1,4 +1,4 @@
-<p align="center">
+<p text-align="center">
   <img src="https://github.com/GuerrSim96/MDS-PVT/blob/main/other/logo/basic_MDS-pVT.png" />
 </p>
 
