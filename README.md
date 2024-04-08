@@ -25,10 +25,8 @@ Furthermore, it is not necessary for the user to have in-depth knowledge of comp
   TUTORIAL
 </h2>
 
-<p>
-On this section we are going to see how easy it is to use the MDS-pVT system!
-</p>
- 
+<p align="center">
+On this section we are going to see how easy it is to use the MDS-pVT system! 
 <table> 
   <tr>
     <th> </th>
@@ -62,6 +60,7 @@ On this section we are going to see how easy it is to use the MDS-pVT system!
     <td> Analyze the trajectory on Colab </td>
   </tr>
 </table> 
+</p>
 
 ---
 
