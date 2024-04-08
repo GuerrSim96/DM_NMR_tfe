@@ -10,8 +10,7 @@
   <li>The second one is responsible to produce the trajectory of a molecular system using the functionality provided by GROMACS; </li>
   <li>The third one is dedicated to analyzing the conformational changes of the peptide throughout the trajectory obtained from the simulation.</li>
 </ol>
-The advantage of using this system is that it does not slow down the user's PC because the GROMACS is installed on the Google Drive and the calculations are carried out with the T4 GPUs made available to Google with Colaboratoory.<br> 
-Furthermore, it is not necessary for the user to have in-depth knowledge of computational chemistry to use this system, the only thing he has to do is enter the pdb identification code of the peptide and enter the percentage of trifluoroethanol in which he wants to simulate.
+The advantage of using this system is that it does not slow down the user's PC because the GROMACS is installed on the Google Drive and the calculations are carried out with the T4 GPUs made available to Google with Colaboratoory. Furthermore, it is not necessary for the user to have in-depth knowledge of computational chemistry to use this system, the only thing he has to do is enter the pdb identification code of the peptide and enter the percentage of trifluoroethanol in which he wants to simulate.
 </p>
 
 <p align="center">
