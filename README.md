@@ -127,10 +127,12 @@ With this Notebook you can:
 <h4>
   Analyze Compactness and Flexibility:
 </h4>
-* Radius of inertia;
-* Root Mean Square Deviation (RMSD);
-* Root Mean Square Fluctuation (RMSF);
-* Solvent-accessible surface area (SASA).
+<ul>
+<li>Radius of inertia;</li>
+<li>Root Mean Square Deviation (RMSD);</li>
+<li>Root Mean Square Fluctuation (RMSF);</li>
+<li>Solvent-accessible surface area (SASA).</li>
+</ul>
 
 <h4>
   Analyze Secondary Structure:
