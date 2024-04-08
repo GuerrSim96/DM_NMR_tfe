@@ -189,5 +189,5 @@ With this Notebook you can:
   Reporting Issues or Requesting Analysis
 </h2>
 <p>
-  If you encounter any issues with the system or wish to request an analysis on another aspect of the trajectory, we encourage you to send us an email at <b>GuerrSim96@gmail.com</b>. We will be happy to assist you and continually improve this project.
+  If you encounter any issues with the system or wish to request an analysis on another aspect of the trajectory, we encourage you to send us an email at <u color="#FFFFFF">GuerrSim96@gmail.com</u>. We will be happy to assist you and continually improve this project.
 </p>
