@@ -17,7 +17,7 @@ The advantage of using this system is that it does not slow down the user's PC b
   <img src="https://github.com/GuerrSim96/MDS-PVT/blob/main/other/logo/basic_MDS-pVT.png"/>
 </p>
 
----
+<hr>
 
 <h2 align="center">
   TUTORIAL
@@ -60,7 +60,7 @@ On this section we are going to see how easy it is to use the MDS-pVT system!
 </table> 
 </p>
 
----
+<hr>
 
 <h3>
   GROMACS_Installation.ipynb
@@ -94,7 +94,7 @@ Perfect, you have just installed GROMACS on your drive!
 > Before proceeding with the second notebook, ensure that the entire 1.95 GB of GROMACS files has been successfully loaded onto the drive.  
 <!-- A QUI -->
 
----
+<hr>
 
 <h3>
   Molecular_Dynamics_Simulation_with_Trifluoroethanol.ipynb
@@ -124,7 +124,7 @@ With this notebook, we will generate a simulation based on a few inputs that you
 </ol>
 </p>
 
----
+<hr>
 
 <h3> 
   trajectory_analysis.ipynb 
@@ -175,6 +175,8 @@ With this Notebook you can:
   <li>PCA to visualize the trajectory.</li>
 </ul>
 </p>
+
+<hr>
 
 <h2 align="center">
   Coming soon
