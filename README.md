@@ -80,27 +80,24 @@ Perfect, you have just installed GROMACS on your drive!
 </h3>
 
 <p>
-With this notebook, we will generate a simulation based on a few inputs that you need to enter!  
-Now, I'll guide you through it in five simple steps:  
-1. Enter the alphanumeric PDB identification code of the peptide;
-
+With this notebook, we will generate a simulation based on a few inputs that you need to enter! Now, I'll guide you through it in five simple steps: 
+<ol>
+ <li> Enter the alphanumeric PDB identification code of the peptide;<br>
    <img src="other/gif/insert_pdb_id.gif"/>
-
-1. Specify the percentage of TFE to be inserted into the system for simulation;
-
-   <img src="other/gif/tfe_percentage.gif"/>
-  
-1. If you have a Colab subscription, check the "extended_simulation" box to extend the simulation time (optional);
-
+ </li>
+ <li>Specify the percentage of TFE to be inserted into the system for simulation;<br>
+    <img src="other/gif/tfe_percentage.gif"/>
+ </li>
+ <li> If you have a Colab subscription, check the "extended_simulation" box to extend the simulation time (optional);<br>
    <img src="other/gif/optional.gif"/>
-   
-1. Ensure that the "runtime" is set to "T4 GPU," then press <kbd>Ctrl</kbd>+<kbd>F9</kbd> to run all cells;
-
+ </li>
+ <li> Ensure that the "runtime" is set to "T4 GPU," then press <kbd>Ctrl</kbd>+<kbd>F9</kbd> to run all cells;<br>
    <img src="other/gif/set_runtime.gif"/>
-
-1. Click on the URL that appears as the last row output from the "Mount the Drive" cell. A new window will open, where you need to select the account on which you installed GROMACS with the previous notebook. Afterward, click on the 'allow' button.
-
+ </li>
+ <li> Click on the URL that appears as the last row output from the "Mount the Drive" cell. A new window will open, where you need to select the account on which you installed GROMACS with the previous notebook. Afterward, click on the 'allow' button.<br>
    <img src="other/gif/drive_mounted.gif"/>
+ </li>
+</ol>
 </p>
 
 ---
