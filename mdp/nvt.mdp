@@ -3,7 +3,7 @@ define                  = -DPOSRES  ; position restrain the protein
 ; Run control
 integrator              = md-vv			; velocity Verlet algorithm, kinetic energy is the average of the two half step
 nsteps                  = 100000 		; 500000 = 1000 ps (1 ns)
-dt                      = 0.002     		; 2 fs (couse SHAKE)			
+dt                      = 0.002     		; 2 fs (couse LINCS)			
 ; Output control
 nstxout                 = 500       		; save coordinates every 1.0 ps
 nstvout                 = 500       		; save velocities every 1.0 ps
