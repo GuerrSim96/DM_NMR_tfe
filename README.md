@@ -63,10 +63,10 @@ On this section we are going to see how easy it is to use the MDS-pVT system!
 <hr>
 
 <h3>
-  GROMACS_Installation.ipynb
-  <a href="https://colab.research.google.com/github/GuerrSim96/Molecular_Dynamics_Simulation_with_Trifluoroethanol/blob/main/GROMACS_installation.ipynb">
+   <a href="https://colab.research.google.com/github/GuerrSim96/Molecular_Dynamics_Simulation_with_Trifluoroethanol/blob/main/GROMACS_installation.ipynb">
     <img src="https://img.shields.io/badge/Open_it-goldenrod?logo=googlecolab&labelColor=gray"/>
   </a>
+  GROMACS_Installation.ipynb
 </h3>
 
 <p>
