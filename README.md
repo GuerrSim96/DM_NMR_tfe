@@ -18,9 +18,13 @@ The advantage of using this system is that it does not slow down the user's PC b
 </p>
 
 <hr>
+<h1>
+   UPDATE IN PROGRESS... 
+</h1>
+<hr>
 
 <h2 align="center">
-  TUTORIAL
+  TUTORIAL 
 </h2>
 
 <p align="center">
