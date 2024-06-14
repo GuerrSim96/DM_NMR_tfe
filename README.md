@@ -18,7 +18,7 @@ The advantage of using this system is that it does not slow down the user's PC b
 </p>
 
 <hr>
-<h1>
+<h1 align="center">
    UPDATE IN PROGRESS... 
 </h1>
 <hr>
