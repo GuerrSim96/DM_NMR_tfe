@@ -1,10 +1,10 @@
 ; md.mdp
 ; Run control
-integrator              = md-vv		; velocity Verlet algorithm, kinetic energy is the average of the two half step
-nsteps                  = 5000000 		; 500000 = 1000 ps (1 ns)
+integrator              = md-vv      	  ; velocity Verlet algorithm, kinetic energy is the average of the two half step
+nsteps                  = 5000000 		  ; 500000 = 1000 ps (1 ns)
 dt                      = 0.002     		; 2 fs (couse LINCS)
-comm-mode		= Angular   		; Remove center of mass translational and rotational velocity
-nstcomm			= 1000	    		; comm-mode vry 2 ps (step * dt)
+comm-mode		= Linear   		              ; Remove center of mass translational and rotational velocity
+nstcomm			= 1000	    		            ; comm-mode vry 2 ps (step * dt)
 ; Output control
 nstxout                 = 0         		; suppress bulky .trr file by specifying
 nstvout                 = 0         		; 0 for output frequency of nstxout
